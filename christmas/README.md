@@ -1,4 +1,4 @@
-# Marry Christmas
+# Merry Christmas
 
 > **This is my first illustration.**
 
