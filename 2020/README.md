@@ -1,4 +1,4 @@
-# Merry Christmas
+# Happy New Year
 
 > **Learning and Exploring Arts.**
 
