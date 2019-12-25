@@ -4,7 +4,7 @@
 
 Illustration:
 
-<img src="./christmas/christmas.svg" alt="Illustration Sample" width="500">
+<img src="./christmas.svg" alt="Illustration Sample" width="500">
 
 Reference: 
 * [INSTAGRAM POST](https://www.instagram.com/p/B6fbv89AOAW/)
