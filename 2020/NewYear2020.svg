@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f93"/>
+      <stop offset="0.335" stop-color="#fff5eb"/>
+      <stop offset="0.515" stop-color="#fff"/>
+      <stop offset="0.763" stop-color="#abfda2"/>
+      <stop offset="1" stop-color="#138808"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.044" y1="0.048" x2="0.972" y2="0.917" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#138808"/>
+      <stop offset="0.184" stop-color="#aaf3aa"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.683" stop-color="#ffc285"/>
+      <stop offset="1" stop-color="#f93"/>
+    </linearGradient>
+    <filter id="year-joint" x="151.679" y="332.5" width="1665.687" height="1566.253" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#4b0000" flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e6e4e4"/>
+    </radialGradient>
+    <filter id="iris-black" x="599.5" y="684.57" width="325" height="329" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_1" x="600.452" y="686.789" width="304.99" height="311.434" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="iris-black-2" x="722.5" y="684.57" width="325" height="329" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_1-2" x="723.452" y="686.789" width="304.99" height="311.434" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="iris-black-3" x="1462.5" y="1273.57" width="325" height="329" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_1-3" x="1481.452" y="1288.789" width="304.99" height="311.434" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="iris-black-4" x="1342.5" y="1273.57" width="325" height="329" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_1-4" x="1361.452" y="1288.789" width="304.99" height="311.434" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Clouds" x="727.5" y="-215.5" width="639.349" height="532.872" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-10"/>
+      <feFlood flood-color="#6f6f6f" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Clouds-2" x="1005.5" y="-149.5" width="639.349" height="532.872" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-11"/>
+      <feFlood flood-color="#6f6f6f" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Clouds-3" x="1235.5" y="20.5" width="639.349" height="532.872" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-12"/>
+      <feFlood flood-color="#6f6f6f" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#fcfc4f"/>
+    </radialGradient>
+    <filter id="sun" x="1431.5" y="-61.5" width="597" height="597" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-13"/>
+      <feFlood flood-color="#ff0"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Clouds-4" x="1543.101" y="118.262" width="639.349" height="532.872" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-14"/>
+      <feFlood flood-color="#6f6f6f" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Clouds-5" x="1259.5" y="-97.5" width="639.349" height="532.872" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-15"/>
+      <feFlood flood-color="#6f6f6f" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-NewYear2020">
+      <rect width="2000" height="2000"/>
+    </clipPath>
+  </defs>
+  <g id="NewYear2020" clip-path="url(#clip-NewYear2020)">
+    <rect width="2000" height="2000" fill="url(#linear-gradient)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 92.07)">
+      <g transform="matrix(1, 0, 0, 1, 0, -92.07)" filter="url(#year-joint)">
+        <path id="year-joint-2" data-name="year-joint" d="M-1090.549,1556.431q-43.213-20.751-76.9-61.034t-53.955-99.365A354.4,354.4,0,0,1-1235.756,1338H-1666.32v-24.414a914.269,914.269,0,0,1,73.73-78.369q38.575-36.377,75.929-69.336t71.044-63.476a644.589,644.589,0,0,0,59.326-60.791q25.635-30.274,40.772-61.279a145.72,145.72,0,0,0,15.137-64.7,132.759,132.759,0,0,0-10.01-51.758,125.814,125.814,0,0,0-27.832-41.5,129.217,129.217,0,0,0-42.236-27.588q-24.415-10.01-53.711-10.01a153.7,153.7,0,0,0-53.955,9.521,163.765,163.765,0,0,0-44.033,24.587q-16.913,39.077-40.995,68.511a251.012,251.012,0,0,1-23.161,24.782q-.734,2.2-1.43,4.434l-2.9-.5a212.666,212.666,0,0,1-48.194,32.323,201.545,201.545,0,0,1-89.111,20.752,204.64,204.64,0,0,1-89.6-20.752q-43.214-20.752-76.905-61.035t-53.955-99.365q-20.264-59.081-20.264-135.742,0-2.152.016-4.289h-403.665V623.586a914.307,914.307,0,0,1,73.731-78.369q38.574-36.376,75.928-69.336t71.045-63.476a644.824,644.824,0,0,0,59.326-60.791q25.634-30.272,40.771-61.279a145.705,145.705,0,0,0,15.137-64.7,132.755,132.755,0,0,0-10.01-51.757,125.808,125.808,0,0,0-27.833-41.5,129.213,129.213,0,0,0-42.236-27.588q-24.413-10.01-53.711-10.01a153.7,153.7,0,0,0-53.955,9.522A163.908,163.908,0,0,0-2311,131.154a186.958,186.958,0,0,0-37.354,41.5,208.3,208.3,0,0,0-25.391,53.956l-22.46-3.907q6.835-44.434,25.39-80.81t46.875-62.256a200.12,200.12,0,0,1,65.429-39.8q37.11-13.916,80.567-13.916,42.48,0,77.881,13.427t61.035,36.866a167.447,167.447,0,0,1,40.039,55.42,165.122,165.122,0,0,1,14.4,68.6,175.141,175.141,0,0,1-17.822,76.66q-17.823,37.109-52,69.336-16.6,15.625-40.039,33.935t-55.175,43.457q-31.739,25.146-73,59.571t-93.506,82.275h255.859q22.462,0,36.622-4.151t22.949-14.16a58.511,58.511,0,0,0,4.874-6.416q2.893-11.389,6.439-22.254,6.032-18.477,13.4-35.186.336-1.384.675-2.794h.571a287.578,287.578,0,0,1,37.6-62.118q32.96-41.014,76.416-62.743a202.587,202.587,0,0,1,91.8-21.729,196.021,196.021,0,0,1,92.529,22.705q43.213,22.7,75.44,64.453t51.025,101.074q18.8,59.326,18.8,132.568,0,46.794-7.465,86.959a209.4,209.4,0,0,1,26.087-11.843q37.11-13.917,80.566-13.917,42.48,0,77.881,13.428t61.035,36.865a167.463,167.463,0,0,1,40.038,55.42,165.114,165.114,0,0,1,14.4,68.6,175.138,175.138,0,0,1-17.822,76.66q-17.823,37.11-52,69.336-16.6,15.625-40.039,33.935t-55.176,43.458q-31.739,25.146-73,59.57t-93.505,82.275h255.859q22.461,0,36.621-4.15t22.95-14.161q8.788-10.009,14.16-26.122.807-2.422,1.626-5.032a387.431,387.431,0,0,1,16.528-79.515q19.287-59.083,52.247-100.1t76.415-62.744a202.592,202.592,0,0,1,91.8-21.728,196.029,196.029,0,0,1,92.529,22.7q43.213,22.706,75.44,64.453t51.025,101.075q18.8,59.326,18.8,132.568,0,75.684-19.531,134.033t-52.491,98.633q-32.959,40.283-75.683,61.034a201.551,201.551,0,0,1-89.112,20.752A204.642,204.642,0,0,1-1090.549,1556.431Zm14.4-561.523q-28.809,22.217-44.678,59.814t-21.241,87.646a996.8,996.8,0,0,0-5.37,106.2q0,72.754,7.324,128.418t24.413,93.262q17.09,37.6,44.678,56.885t68.6,19.287q47.363,0,75.928-24.658t43.457-64.7q14.893-40.04,19.531-90.577t4.64-102.783q0-73.73-6.836-128.662t-23.193-90.82q-16.358-35.89-43.7-53.711t-67.872-17.823Q-1047.336,972.691-1076.144,994.909Zm-767-608q-28.808,22.217-44.678,59.814t-21.24,87.647a996.807,996.807,0,0,0-5.371,106.2q0,72.754,7.324,128.417t24.414,93.263q17.09,37.6,44.678,56.885t68.6,19.287q47.363,0,75.928-24.658t43.457-64.7q14.892-40.038,19.531-90.576t4.639-102.784q0-73.73-6.835-128.662t-23.194-90.82q-16.357-35.888-43.7-53.711t-67.872-17.822Q-1814.336,364.692-1843.145,386.908Z" transform="translate(2581.5 309.07)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="eye" transform="translate(714 708)">
+        <path id="eyeBall" d="M39.5,0C61.315,0,79,19.476,79,43.5S61.315,87,39.5,87,0,67.524,0,43.5,17.685,0,39.5,0Z" opacity="0.9" fill="url(#radial-gradient)"/>
+        <g transform="matrix(1, 0, 0, 1, -714, -800.07)" filter="url(#iris-black)">
+          <ellipse id="iris-black-5" data-name="iris-black" cx="14" cy="16" rx="14" ry="16" transform="translate(748 833.07)"/>
+        </g>
+        <circle id="iris" cx="3.5" cy="3.5" r="3.5" transform="translate(48 49)" fill="#ebebeb"/>
+        <g transform="matrix(1, 0, 0, 1, -714, -800.07)" filter="url(#Subtraction_1)">
+          <path id="Subtraction_1-5" data-name="Subtraction 1" d="M-2580.034-425.347h0c-.008-.219-.012-.439-.012-.653,0-6,3.136-11.406,7.99-13.781A26.483,26.483,0,0,0-2580.034-425.347Z" transform="translate(3329 1275.07)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="eye-2" data-name="eye" transform="translate(837 708)">
+        <path id="eyeBall-2" data-name="eyeBall" d="M39.5,0C61.315,0,79,19.476,79,43.5S61.315,87,39.5,87,0,67.524,0,43.5,17.685,0,39.5,0Z" opacity="0.9" fill="url(#radial-gradient)"/>
+        <g transform="matrix(1, 0, 0, 1, -837, -800.07)" filter="url(#iris-black-2)">
+          <ellipse id="iris-black-6" data-name="iris-black" cx="14" cy="16" rx="14" ry="16" transform="translate(871 833.07)"/>
+        </g>
+        <circle id="iris-2" data-name="iris" cx="3.5" cy="3.5" r="3.5" transform="translate(48 49)" fill="#ebebeb"/>
+        <g transform="matrix(1, 0, 0, 1, -837, -800.07)" filter="url(#Subtraction_1-2)">
+          <path id="Subtraction_1-6" data-name="Subtraction 1" d="M-2580.034-425.347h0c-.008-.219-.012-.439-.012-.653,0-6,3.136-11.406,7.99-13.781A26.483,26.483,0,0,0-2580.034-425.347Z" transform="translate(3452 1275.07)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="eye-3" data-name="eye" transform="translate(1597 1316)">
+        <path id="eyeBall-3" data-name="eyeBall" d="M39.5,0C61.315,0,79,19.476,79,43.5S61.315,87,39.5,87,0,67.524,0,43.5,17.685,0,39.5,0Z" opacity="0.9" fill="url(#radial-gradient)"/>
+        <g transform="matrix(1, 0, 0, 1, -1597, -1408.07)" filter="url(#iris-black-3)">
+          <ellipse id="iris-black-7" data-name="iris-black" cx="14" cy="16" rx="14" ry="16" transform="translate(1611 1422.07)"/>
+        </g>
+        <circle id="iris-3" data-name="iris" cx="3.5" cy="3.5" r="3.5" transform="translate(21 23)" fill="#ebebeb"/>
+        <g transform="matrix(1, 0, 0, 1, -1597, -1408.07)" filter="url(#Subtraction_1-3)">
+          <path id="Subtraction_1-7" data-name="Subtraction 1" d="M.014,14.434h0C0,14.215,0,14,0,13.781,0,7.784,3.136,2.375,7.99,0A26.483,26.483,0,0,0,.014,14.434Z" transform="translate(1637.94 1451.72) rotate(180)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="eye-4" data-name="eye" transform="translate(1477 1316)">
+        <path id="eyeBall-4" data-name="eyeBall" d="M39.5,0C61.315,0,79,19.476,79,43.5S61.315,87,39.5,87,0,67.524,0,43.5,17.685,0,39.5,0Z" opacity="0.9" fill="url(#radial-gradient)"/>
+        <g transform="matrix(1, 0, 0, 1, -1477, -1408.07)" filter="url(#iris-black-4)">
+          <ellipse id="iris-black-8" data-name="iris-black" cx="14" cy="16" rx="14" ry="16" transform="translate(1491 1422.07)"/>
+        </g>
+        <circle id="iris-4" data-name="iris" cx="3.5" cy="3.5" r="3.5" transform="translate(21 23)" fill="#ebebeb"/>
+        <g transform="matrix(1, 0, 0, 1, -1477, -1408.07)" filter="url(#Subtraction_1-4)">
+          <path id="Subtraction_1-8" data-name="Subtraction 1" d="M.014,14.434h0C0,14.215,0,14,0,13.781,0,7.784,3.136,2.375,7.99,0A26.483,26.483,0,0,0,.014,14.434Z" transform="translate(1517.94 1451.72) rotate(180)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="sky">
+      <g id="Clouds-6" data-name="Clouds" transform="translate(877 -66)">
+        <g transform="matrix(1, 0, 0, 1, -877, 66)" filter="url(#Clouds)">
+          <path id="Clouds-7" data-name="Clouds" d="M93.115,200.287s-52.746,11.186-72.459-7.812-6.393-68.183-6.393-68.183S-5.451,92.153,1.475,72.444,41.967,45.455,41.967,45.455,72.336,0,107.322,0s74.59,45.455,74.59,45.455.141-.018.409-.048q.806-.806,1.642-1.607c9.157-8.765,20.953-16.766,33.5-16.766,27.751,0,59.165,39.159,59.165,39.159s34.654-4.742,47.9,12.237,5.072,55.679,5.072,55.679,18.877,29.981,10.706,44.666-43.388,14.073-43.388,14.073-12.819,35.641-35.5,37.323S206.19,199.58,206.19,199.58s-.8.184-2.22.459c-6.2,12.035-20.427,34.339-41.238,35.76q-1.089.074-2.2.074C132.081,235.873,93.115,200.287,93.115,200.287Z" transform="translate(877 -66)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Clouds-8" data-name="Clouds" transform="translate(1155)">
+        <g transform="matrix(1, 0, 0, 1, -1155, 0)" filter="url(#Clouds-2)">
+          <path id="Clouds-9" data-name="Clouds" d="M93.115,200.287s-52.746,11.186-72.459-7.812-6.393-68.183-6.393-68.183S-5.451,92.153,1.475,72.444,41.967,45.455,41.967,45.455,72.336,0,107.322,0s74.59,45.455,74.59,45.455.141-.018.409-.048q.806-.806,1.642-1.607c9.157-8.765,20.953-16.766,33.5-16.766,27.751,0,59.165,39.159,59.165,39.159s34.654-4.742,47.9,12.237,5.072,55.679,5.072,55.679,18.877,29.981,10.706,44.666-43.388,14.073-43.388,14.073-12.819,35.641-35.5,37.323S206.19,199.58,206.19,199.58s-.8.184-2.22.459c-6.2,12.035-20.427,34.339-41.238,35.76q-1.089.074-2.2.074C132.081,235.873,93.115,200.287,93.115,200.287Z" transform="translate(1155)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Clouds-10" data-name="Clouds" transform="translate(1385 170)">
+        <g transform="matrix(1, 0, 0, 1, -1385, -170)" filter="url(#Clouds-3)">
+          <path id="Clouds-11" data-name="Clouds" d="M93.115,200.287s-52.746,11.186-72.459-7.812-6.393-68.183-6.393-68.183S-5.451,92.153,1.475,72.444,41.967,45.455,41.967,45.455,72.336,0,107.322,0s74.59,45.455,74.59,45.455.141-.018.409-.048q.806-.806,1.642-1.607c9.157-8.765,20.953-16.766,33.5-16.766,27.751,0,59.165,39.159,59.165,39.159s34.654-4.742,47.9,12.237,5.072,55.679,5.072,55.679,18.877,29.981,10.706,44.666-43.388,14.073-43.388,14.073-12.819,35.641-35.5,37.323S206.19,199.58,206.19,199.58s-.8.184-2.22.459c-6.2,12.035-20.427,34.339-41.238,35.76q-1.089.074-2.2.074C132.081,235.873,93.115,200.287,93.115,200.287Z" transform="translate(1385 170)" fill="#fff"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#sun)">
+        <circle id="sun-2" data-name="sun" cx="150" cy="150" r="150" transform="translate(1580 86)" fill="url(#radial-gradient-5)"/>
+      </g>
+      <g id="Clouds-12" data-name="Clouds" transform="translate(1692.601 267.762)">
+        <g transform="matrix(1, 0, 0, 1, -1692.6, -267.76)" filter="url(#Clouds-4)">
+          <path id="Clouds-13" data-name="Clouds" d="M93.115,200.287s-52.746,11.186-72.459-7.812-6.393-68.183-6.393-68.183S-5.451,92.153,1.475,72.444,41.967,45.455,41.967,45.455,72.336,0,107.322,0s74.59,45.455,74.59,45.455.141-.018.409-.048q.806-.806,1.642-1.607c9.157-8.765,20.953-16.766,33.5-16.766,27.751,0,59.165,39.159,59.165,39.159s34.654-4.742,47.9,12.237,5.072,55.679,5.072,55.679,18.877,29.981,10.706,44.666-43.388,14.073-43.388,14.073-12.819,35.641-35.5,37.323S206.19,199.58,206.19,199.58s-.8.184-2.22.459c-6.2,12.035-20.427,34.339-41.238,35.76q-1.089.074-2.2.074C132.081,235.873,93.115,200.287,93.115,200.287Z" transform="translate(1692.6 267.76)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Clouds-14" data-name="Clouds" transform="translate(1409 52)">
+        <g transform="matrix(1, 0, 0, 1, -1409, -52)" filter="url(#Clouds-5)">
+          <path id="Clouds-15" data-name="Clouds" d="M93.115,200.287s-52.746,11.186-72.459-7.812-6.393-68.183-6.393-68.183S-5.451,92.153,1.475,72.444,41.967,45.455,41.967,45.455,72.336,0,107.322,0s74.59,45.455,74.59,45.455.141-.018.409-.048q.806-.806,1.642-1.607c9.157-8.765,20.953-16.766,33.5-16.766,27.751,0,59.165,39.159,59.165,39.159s34.654-4.742,47.9,12.237,5.072,55.679,5.072,55.679,18.877,29.981,10.706,44.666-43.388,14.073-43.388,14.073-12.819,35.641-35.5,37.323S206.19,199.58,206.19,199.58s-.8.184-2.22.459c-6.2,12.035-20.427,34.339-41.238,35.76q-1.089.074-2.2.074C132.081,235.873,93.115,200.287,93.115,200.287Z" transform="translate(1409 52)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Signature" transform="translate(886 168)">
+      <text id="JHA_SURAJ" data-name="JHA SURAJ" transform="translate(5 49)" fill="#d99c60" font-size="51" font-family="Calibri"><tspan x="0" y="0">JHA SURAJ</tspan></text>
+      <g id="link" transform="translate(-0.001 60.991)">
+        <text id="jhasuraj.com" transform="translate(42.001 30.009)" fill="#d99c60" font-size="36" font-family="Calibri"><tspan x="0" y="0">jhasuraj.com</tspan></text>
+        <path id="Path_3" data-name="Path 3" d="M84.251,2.456a8.407,8.407,0,0,0-11.874,0h0L67.2,7.635l2.391,2.39L74.77,4.844h0a5.015,5.015,0,0,1,7.091,7.095l-7.773,7.773a5.014,5.014,0,0,1-7.091,0L64.605,22.1a8.395,8.395,0,0,0,11.873,0l7.774-7.773A8.406,8.406,0,0,0,84.251,2.456Z" transform="translate(-50.042 0)" fill="#d99c60"/>
+        <path id="Path_4" data-name="Path 4" d="M11.938,73.423h0A5.015,5.015,0,0,1,4.846,66.33l7.773-7.773a5.02,5.02,0,0,1,7.092,0L22.1,56.167a8.4,8.4,0,0,0-11.874,0L2.455,63.939A8.4,8.4,0,0,0,14.329,75.814h0l5.181-5.182-2.391-2.391Z" transform="translate(0 -41.604)" fill="#d99c60"/>
+      </g>
+    </g>
+  </g>
+</svg>
